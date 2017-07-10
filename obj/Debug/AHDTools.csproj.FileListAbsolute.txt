@@ -1,0 +1,5 @@
+c:\users\alexi\documents\visual studio 2017\Projects\AHDTools\AHDTools\bin\Debug\AHDTools.dll
+c:\users\alexi\documents\visual studio 2017\Projects\AHDTools\AHDTools\bin\Debug\AHDTools.pdb
+c:\users\alexi\documents\visual studio 2017\Projects\AHDTools\AHDTools\obj\Debug\AHDTools.csprojResolveAssemblyReference.cache
+c:\users\alexi\documents\visual studio 2017\Projects\AHDTools\AHDTools\obj\Debug\AHDTools.dll
+c:\users\alexi\documents\visual studio 2017\Projects\AHDTools\AHDTools\obj\Debug\AHDTools.pdb
